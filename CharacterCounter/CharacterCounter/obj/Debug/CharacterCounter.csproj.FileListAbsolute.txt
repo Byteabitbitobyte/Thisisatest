@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.exe.config
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.exe
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\bin\Debug\CharacterCounter.pdb
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.Form1.resources
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.Properties.Resources.resources
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.exe
+C:\Users\Julian\source\repos\CharacterCounter\CharacterCounter\obj\Debug\CharacterCounter.pdb
